@@ -22,3 +22,19 @@ lalu ketik git push u- origin master
 ![Screenshot (16)](https://user-images.githubusercontent.com/115749975/197333090-4906ac16-e405-42d9-af22-5376a3244c1f.png)
 
 sekian terima kasih
+
+#belajar python
+
+1. download apk python di python.org
+![Screenshot (19)](https://user-images.githubusercontent.com/115749975/197333756-e27e3c26-670b-4cfa-bb89-e045678fcb83.png)
+ 
+2. latihan menampilkan "hello dan saya sedang belajar python"
+
+![Screenshot (19)](https://user-images.githubusercontent.com/115749975/197335885-e59edcd3-f909-4b02-95e6-b944c5458656.png)
+
+3. latihan menjumlahkan 2 buah bilangan
+![Screenshot (20)](https://user-images.githubusercontent.com/115749975/197335933-682b8611-7eac-4562-b748-ce0b0c7685b6.png)
+
+4. menjalankan IDLE dan membuat file repository labpy1, kemudian menggunakan fungsi input untuk mengambil nilai variable
+![Screenshot (23)](https://user-images.githubusercontent.com/115749975/197336030-b6050ff1-8342-4c44-9874-8737fbcebed7.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/115749975/197336045-977dcde0-7e00-4c3d-bac3-8b8b3a7362e5.png)
