@@ -43,13 +43,6 @@ TERIMA KASIH
 TERIMA KASIH
 --------------------------------------------------------------------------------------------------
 
-1. latihan python1
-![Screenshot (26)](https://user-images.githubusercontent.com/115749975/198169065-6032f045-f9e8-4891-ad79-d51a96034314.png)
-![Screenshot (27)](https://user-images.githubusercontent.com/115749975/198169325-4f0ce2da-8d2a-4971-9422-5b45e9abfa24.png)
-
-2. latihan python2
-![Screenshot (28)](https://user-images.githubusercontent.com/115749975/198170585-7f8d9fba-bbd2-4096-9d55-88014172ab38.png)
-![Screenshot (29)](https://user-images.githubusercontent.com/115749975/198170662-6bdd4b3e-1961-4d0a-814c-0236b8088605.png)
 
 
 
